@@ -1,0 +1,51 @@
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Uu]ser[Ss]ettings/
+
+# Automaattisesti luodut VS/VSCode -tiedostot
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+
+# Windows-tiedostot
+*.dll
+*.exe
+*.pdb
+*.user
+*.aps
+*.ncb
+*.suo
+*.bak
+*.swp
+*.bak
+*.sw?
+*.ncb
+Thumbs.db
+
+# macOS -tiedostot
+*.DS_Store
+*.swp
+*.swo
+*.swn
+
+# Tiedostot, jotka voivat sisältää merkittäviä tietoja, kuten salasanoja tai avaimia
+*.keystore
+*.keypasswd
+*.bak
+*.swp
+*.sw?
